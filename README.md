@@ -52,7 +52,7 @@ El objetivo principal de MovieHub es proporcionar una herramienta sencilla para 
 La aplicación está disponible en GitHub Pages para que puedas probarla fácilmente sin necesidad de clonar el repositorio. Solo sigue estos pasos:
 
 1. **Accede a la aplicación**: Visita el siguiente enlace para usar MovieHub directamente en tu navegador:  
-   [https://github.com/Omargarcia21/app-movie.github.io](#).
+   [https://omargarcia21.github.io/app-movies.github.io/](#).
 
 2. **Busca películas**: Utiliza el campo de búsqueda en la parte superior de la página para buscar películas por título.
 
